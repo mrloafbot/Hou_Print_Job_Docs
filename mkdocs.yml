@@ -1,0 +1,4 @@
+site_name: Houdini for Print
+site_url: https://mrloafbot.github.io/Hou_Print_Job_Docs
+theme:
+  name: material
